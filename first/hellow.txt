@@ -2,4 +2,6 @@
   echo "hello";
   echo "<br>";
   echo "okey";
+  echo "iya sama sama";
+  echo "oke";
 ?>
