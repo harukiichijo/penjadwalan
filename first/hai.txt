@@ -1,0 +1,9 @@
+<?php
+  echo "hello";
+  echo "<br>";
+  echo "okey";
+  echo "iya sama sama";
+  echo "oke";
+echo "shit";
+echo "saam ams";
+?>
