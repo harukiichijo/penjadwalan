@@ -4,5 +4,6 @@
   echo "okey";
   echo "iya sama sama";
   echo "oke";
+  echo "ahai";
 echo "shit";
 ?>
